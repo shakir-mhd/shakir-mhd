@@ -1,21 +1,130 @@
-# 💫 About Me:
-🔭 I’m currently working on: Cloud computing architectures, full-stack web platforms, and database-driven software.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on: Open-source cloud tools, backend systems, and web application development.<br><br>🤝 I’m looking for help with: Advanced AWS cloud deployments and microservice scaling.<br><br>🌱 I’m currently learning: Cloud infrastructure, containerization, and advanced backend optimization.<br><br>💬 Ask me about: Java, PHP, MySQL database management, and web system design.<br><br>⚡ Fun fact: I believe clean code and structured databases solve half of the world's performance bottlenecks.
+<div align="center">
 
+<!-- Animated typing tagline -->
+<a href="https://github.com/shakir-mhd">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=C3A055&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Mohomed+Shakir;Cloud+Computing+Undergrad+%40+SLTC;Full-Stack+Developer+%7C+PHP+%C2%B7+Java+%C2%B7+JS;Building+Route+Rescue+LK+%F0%9F%9A%A8" alt="Typing SVG" />
+</a>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Shakir Mohomed) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shakir_skr_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shakir Mohomed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shakirmohomed8685@gmail.com) 
+<h1>Mohomed Shakir</h1>
+<h3>Software Developer Intern · Cloud Computing Undergraduate</h3>
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shakir-mhd&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=shakir-mhd&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shakir-mhd&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p>Full-stack developer turning ideas into working products — from PHP/MySQL backends to Android apps and live-mapping platforms for real-world impact.</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p>
+  <a href="mailto:shakirmohomed8685@gmail.com"><img src="https://img.shields.io/badge/Email-shakirmohomed8685%40gmail.com-C3A055?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/shakir-mhd"><img src="https://img.shields.io/badge/GitHub-shakir--mhd-0F384D?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- Add these when ready -->
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Add_Your_Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Add_Your_Link-C3A055?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=shakir-mhd&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧰 Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+
+**Web & Mobile**
+<br/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
+<img src="https://img.shields.io/badge/AJAX-0055FF?style=flat-square&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
+<img src="https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white" />
+
+**Databases**
+<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+
+**Tools & Platforms**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+
+</div>
+
+---
+
+### 👋 About Me
+
+I'm a Cloud Computing undergraduate at SLTC Research University with hands-on full-stack development experience spanning PHP/MySQL, Java, and Android. As full-stack developer and UI/UX designer on **Route Rescue LK**, I helped build a real-time emergency roadside assistance platform for Sri Lankan motorists — combining live map alerts, proximity-based mechanic matching, and a two-tier monetization model. I'm quick to pick up new tools and frameworks, and I care as much about clean UI/UX as I do about solid backend architecture.
+
+---
+
+### 🚧 What I'm Working On
+
+- 🎓 Pursuing a **BSc (Hons) in Cloud Computing** at SLTC Research University *(2024 – Present)*
+- 🛠️ **Route Rescue LK** — full-stack + UI/UX on a 4–5 person team building live "Hazard Pin" alerts via AJAX polling over a PHP/MySQL backend, with Leaflet.js-based proximity matching
+- 📜 Completing **Software Developer (NVQ 4)** certification at VTA Padukka *(2025 – 2026)*
+- 🌩️ Deepening my knowledge of cloud infrastructure foundations and agile project delivery
+- 🧑‍💻 Student Member of **IEEE** and the **IEEE Computer Society (Sri Lanka Section)**
+- 💼 Open to **Software Developer Internship** opportunities
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shakir-mhd&show_icons=true&theme=dark&hide_border=true&bg_color=0F384D&title_color=C3A055&icon_color=C3A055&text_color=FFFFFF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakir-mhd&layout=compact&theme=dark&hide_border=true&bg_color=0F384D&title_color=C3A055&text_color=FFFFFF" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shakir-mhd&theme=dark&hide_border=true&background=0F384D&stroke=C3A055&ring=C3A055&fire=C3A055&currStreakLabel=FFFFFF" />
+
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/shakir-mhd/route-rescue-lk">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shakir-mhd&repo=route-rescue-lk&theme=dark&hide_border=true&bg_color=0F384D&title_color=C3A055&icon_color=C3A055&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/shakir-mhd/hotel-the-blue-moon">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shakir-mhd&repo=hotel-the-blue-moon&theme=dark&hide_border=true&bg_color=0F384D&title_color=C3A055&icon_color=C3A055&text_color=FFFFFF" />
+</a>
+
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:shakirmohomed8685@gmail.com"><img src="https://img.shields.io/badge/-Email_Me-0F384D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/shakir-mhd"><img src="https://img.shields.io/badge/-Follow_on_GitHub-0F384D?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0F384D?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+*"Always learning, always building."*
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=shakir-mhd&color=C3A055&style=flat-square&label=Profile+Views)
+
+<sub>Thanks for stopping by — feel free to reach out about internships or collaboration! 🚀</sub>
+
+</div>
