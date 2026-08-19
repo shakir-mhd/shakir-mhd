@@ -15,7 +15,7 @@
   <a href="https://github.com/shakir-mhd"><img src="https://img.shields.io/badge/GitHub-shakir--mhd-0F384D?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/shakir-mohomed-9912ab27b"><img src="https://img.shields.io/badge/LinkedIn-Shakir_Mohomed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <!-- Add this when ready -->
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Add_Your_Link-C3A055?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <!--<a href="#"><img src="https://img.shields.io/badge/Portfolio-Add_Your_Link-C3A055?style=for-the-badge&logo=vercel&logoColor=white" /></a>-->
 </p>
 
 </div>
