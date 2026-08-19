@@ -13,9 +13,9 @@
 <p>
   <a href="mailto:shakirmohomed8685@gmail.com"><img src="https://img.shields.io/badge/Email-shakirmohomed8685%40gmail.com-C3A055?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/shakir-mhd"><img src="https://img.shields.io/badge/GitHub-shakir--mhd-0F384D?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <!-- Add these when ready -->
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-www.linkedin.com/in/shakir-mohomed-9912ab27b-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  /**<a href="#"><img src="https://img.shields.io/badge/Portfolio-Add_Your_Link-C3A055?style=for-the-badge&logo=vercel&logoColor=white" /></a>**/
+  <a href="https://www.linkedin.com/in/shakir-mohomed-9912ab27b"><img src="https://img.shields.io/badge/LinkedIn-Shakir_Mohomed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <!-- Add this when ready -->
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Add_Your_Link-C3A055?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 </div>
@@ -113,7 +113,7 @@ I'm a Cloud Computing undergraduate at SLTC Research University with hands-on fu
 
 <a href="mailto:shakirmohomed8685@gmail.com"><img src="https://img.shields.io/badge/-Email_Me-0F384D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/shakir-mhd"><img src="https://img.shields.io/badge/-Follow_on_GitHub-0F384D?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0F384D?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shakir-mohomed-9912ab27b"><img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 *"Always learning, always building."*
 
