@@ -81,12 +81,12 @@ I'm a Cloud Computing undergraduate at SLTC Research University with hands-on fu
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shakir-mhd&show_icons=true&theme=dark&hide_border=true&bg_color=0F384D&title_color=C3A055&icon_color=C3A055&text_color=FFFFFF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakir-mhd&layout=compact&theme=dark&hide_border=true&bg_color=0F384D&title_color=C3A055&text_color=FFFFFF" />
+<img src="https://img.shields.io/github/followers/shakir-mhd?label=Followers&style=for-the-badge&color=C3A055&labelColor=0F384D" />
+<img src="https://img.shields.io/github/stars/shakir-mhd?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&color=C3A055&labelColor=0F384D" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shakir-mhd&theme=dark&hide_border=true&background=0F384D&stroke=C3A055&ring=C3A055&fire=C3A055&currStreakLabel=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api?username=shakir-mhd&show_icons=true&theme=dark&hide_border=true&bg_color=0F384D&title_color=C3A055&icon_color=C3A055&text_color=FFFFFF" alt="GitHub Stats" />
 
 </div>
 
@@ -96,15 +96,28 @@ I'm a Cloud Computing undergraduate at SLTC Research University with hands-on fu
 
 <div align="center">
 
-<a href="https://github.com/shakir-mhd/route-rescue-lk">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shakir-mhd&repo=route-rescue-lk&theme=dark&hide_border=true&bg_color=0F384D&title_color=C3A055&icon_color=C3A055&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/shakir-mhd/hotel-the-blue-moon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shakir-mhd&repo=hotel-the-blue-moon&theme=dark&hide_border=true&bg_color=0F384D&title_color=C3A055&icon_color=C3A055&text_color=FFFFFF" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="400">
+      <a href="https://github.com/shakir-mhd/route-rescue-lk">
+        <img src="https://img.shields.io/badge/🚨_Route_Rescue_LK-Emergency_Roadside_Platform-0F384D?style=for-the-badge&labelColor=C3A055" />
+      </a>
+      <br/>
+      <sub>Full-stack + UI/UX · Live map alerts · PHP/MySQL · Leaflet.js</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="400">
+      <a href="https://github.com/shakir-mhd/hotel-the-blue-moon">
+        <img src="https://img.shields.io/badge/🏨_Hotel_The_Blue_Moon-Hotel_Brand_Website-0F384D?style=for-the-badge&labelColor=C3A055" />
+      </a>
+      <br/>
+      <sub>WordPress · Elementor · Photoshop UI</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
-
 ---
 
 ### 🤝 Let's Connect
