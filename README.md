@@ -1,143 +1,34 @@
-<div align="center">
+# Mohomed Shakir
 
-<!-- Animated typing tagline -->
-<a href="https://github.com/shakir-mhd">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=C3A055&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Mohomed+Shakir;Cloud+Computing+Undergrad+%40+SLTC;Full-Stack+Developer+%7C+PHP+%C2%B7+Java+%C2%B7+JS;Building+Route+Rescue+LK+%F0%9F%9A%A8" alt="Typing SVG" />
-</a>
+**Software Developer Intern (OJT) · Aspiring Cloud Engineer & Full-Stack Developer**  
+BSc (Hons) Cloud Computing, SLTC Research University · Software Developer OJT at Mahapola Port & Maritime Academy
 
-<h1>Mohomed Shakir</h1>
-<h3>Software Developer Intern · Cloud Computing Undergraduate</h3>
-
-<p>Full-stack developer turning ideas into working products — from PHP/MySQL backends to Android apps and live-mapping platforms for real-world impact.</p>
-
-<p>
-  <a href="mailto:shakirmohomed8685@gmail.com"><img src="https://img.shields.io/badge/Email-shakirmohomed8685%40gmail.com-C3A055?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/shakir-mhd"><img src="https://img.shields.io/badge/GitHub-shakir--mhd-0F384D?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/shakir-mohomed-9912ab27b"><img src="https://img.shields.io/badge/LinkedIn-Shakir_Mohomed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <!-- Add this when ready -->
-  <!--<a href="#"><img src="https://img.shields.io/badge/Portfolio-Add_Your_Link-C3A055?style=for-the-badge&logo=vercel&logoColor=white" /></a>-->
+<p align="center">
+  <img src="./assets/hero.svg?v=1" width="100%" alt="Hi, I'm Mohomed Shakir — Software Developer Intern & Cloud Computing Undergrad. Building scalable products with cloud and code." />
 </p>
 
-</div>
+<img src="./assets/about-life.svg?v=1" width="100%" alt="Modern web & mobile development, cloud & backend architecture, emergency roadside platform. Life outside the commit: SLTC Research University, Mahapola Port & Maritime Academy, VTA Padukka." />
 
----
+<img src="./assets/stack.svg?v=1" width="100%" alt="Development toolkit: Java, PHP, JavaScript, TypeScript, Python, HTML5, CSS3, WordPress, Elementor, AJAX, Leaflet.js, MySQL, Firebase, Supabase, Android Studio, Git/GitHub." />
 
-### 🧰 Tech Stack
+### Things I've Built
 
-<div align="center">
+| Project | What it does | Focus |
+| :--- | :--- | :--- |
+| [**Route Rescue LK**](https://github.com/shakir-mhd/RouteRescue-LK) | Emergency roadside assistance platform with live hazard pins and nearby mechanic matching | PHP · MySQL · Leaflet.js · AJAX |
+| [**Hotel The Blue Moon (Web)**](https://github.com/shakir-mhd/Hotel-The-Blue-Moon-Web) | Brand hotel website with modern booking UX and responsive design | WordPress · Elementor · Photoshop |
+| [**Hotel The Blue Moon (Android)**](https://github.com/shakir-mhd/Hotel-The-Blue-Moon-Android) | Hotel companion mobile application for guest utility and reservations | Java · Android Studio |
+| **3D Portfolio** | Interactive cyberpunk-themed developer portfolio showcase | Three.js · WebGL · In Progress |
 
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="./assets/id-dashboard.svg?v=1" width="100%" alt="Shakir's builder ID and public credentials dashboard. 126+ annual contributions, 5+ public repositories, NVQ Level 4 Software Developer certification." />
 
-**Web & Mobile**
-<br/>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-<img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
-<img src="https://img.shields.io/badge/AJAX-0055FF?style=flat-square&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
-<img src="https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white" />
+<img src="./assets/connect.svg?v=1" width="100%" alt="Let's build what's next. Connect on LinkedIn, send an Email, follow on Instagram @_shakir_skr_, or explore repositories on GitHub @shakir-mhd." />
 
-**Databases**
-<br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/shakir-mohomed-9912ab27b"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="mailto:shakirmohomed8685@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/_shakir_skr_/"><b>Instagram — @_shakir_skr_</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/shakir-mhd"><b>GitHub — @shakir-mhd</b></a>
+</p>
 
-**Tools & Platforms**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white" />
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
-
-</div>
-
----
-
-### 👋 About Me
-
-I'm a Cloud Computing undergraduate at SLTC Research University with hands-on full-stack development experience spanning PHP/MySQL, Java, and Android. As full-stack developer and UI/UX designer on **Route Rescue LK**, I helped build a real-time emergency roadside assistance platform for Sri Lankan motorists — combining live map alerts, proximity-based mechanic matching, and a two-tier monetization model. I'm quick to pick up new tools and frameworks, and I care as much about clean UI/UX as I do about solid backend architecture.
-
----
-
-### 🚧 What I'm Working On
-
-- 🎓 Pursuing a **BSc (Hons) in Cloud Computing** at SLTC Research University *(2024 – Present)*
-- 🛠️ **Route Rescue LK** — full-stack + UI/UX on a 4–5 person team building live "Hazard Pin" alerts via AJAX polling over a PHP/MySQL backend, with Leaflet.js-based proximity matching
-- 📜 Completing **Software Developer (NVQ 4)** certification at VTA Padukka *(2025 – 2026)*
-- 🌩️ Deepening my knowledge of cloud infrastructure foundations and agile project delivery
-- 🧑‍💻 Student Member of **IEEE** and the **IEEE Computer Society (Sri Lanka Section)**
-- 💼 Open to **Software Developer Internship** opportunities
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/shakir-mhd?label=Followers&style=for-the-badge&color=C3A055&labelColor=0F384D" />
-<img src="https://img.shields.io/github/stars/shakir-mhd?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&color=C3A055&labelColor=0F384D" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=shakir-mhd&show_icons=true&theme=dark&hide_border=true&bg_color=0F384D&title_color=C3A055&icon_color=C3A055&text_color=FFFFFF" alt="GitHub Stats" />
-
-</div>
-
----
-
-### 🌟 Featured Projects
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="400">
-      <a href="https://github.com/shakir-mhd/route-rescue-lk">
-        <img src="https://img.shields.io/badge/🚨_Route_Rescue_LK-Emergency_Roadside_Platform-0F384D?style=for-the-badge&labelColor=C3A055" />
-      </a>
-      <br/>
-      <sub>Full-stack + UI/UX · Live map alerts · PHP/MySQL · Leaflet.js</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="400">
-      <a href="https://github.com/shakir-mhd/hotel-the-blue-moon">
-        <img src="https://img.shields.io/badge/🏨_Hotel_The_Blue_Moon-Hotel_Brand_Website-0F384D?style=for-the-badge&labelColor=C3A055" />
-      </a>
-      <br/>
-      <sub>WordPress · Elementor · Photoshop UI</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
----
-
-### 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:shakirmohomed8685@gmail.com"><img src="https://img.shields.io/badge/-Email_Me-0F384D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/shakir-mhd"><img src="https://img.shields.io/badge/-Follow_on_GitHub-0F384D?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/shakir-mohomed-9912ab27b"><img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-*"Always learning, always building."*
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=shakir-mhd&color=C3A055&style=flat-square&label=Profile+Views)
-
-<sub>Thanks for stopping by — feel free to reach out about internships or collaboration! 🚀</sub>
-
-</div>
+<p align="center"><sub>Always learning, always building. Turning ideas into real-world impact.</sub></p>
