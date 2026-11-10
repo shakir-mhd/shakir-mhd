@@ -4,6 +4,16 @@
 BSc (Hons) Cloud Computing, SLTC Research University · Software Developer OJT at Mahapola Port & Maritime Academy
 
 <p align="center">
+  <a href="https://shakir-portfolio-web.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Official_Website-Shakir_Portfolio-E11D48?style=for-the-badge&logo=vercel&logoColor=white" alt="Shakir Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://shakir-portfolio-web.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-shakir--portfolio--web.vercel.app-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+  </a>
+</p>
+
+<p align="center">
   <img src="./assets/hero.svg?v=2" width="100%" alt="Hi, I'm Mohomed Shakir — Software Developer Intern & Cloud Computing Undergrad. Building scalable products with cloud and code." />
 </p>
 
@@ -15,16 +25,18 @@ BSc (Hons) Cloud Computing, SLTC Research University · Software Developer OJT a
 
 | Project | What it does | Focus |
 | :--- | :--- | :--- |
+| [**Shakir Portfolio**](https://shakir-portfolio-web.vercel.app/) | Official interactive 3D engineering portfolio with live systems showcase & credentials | React · TypeScript · Three.js · Vercel |
 | [**Route Rescue LK**](https://github.com/shakir-mhd/RouteRescue-LK) | Emergency roadside assistance platform with live hazard pins and nearby mechanic matching | PHP · MySQL · Leaflet.js · AJAX |
 | [**Hotel The Blue Moon (Web)**](https://github.com/shakir-mhd/Hotel-The-Blue-Moon-Web) | Brand hotel website with modern booking UX and responsive design | WordPress · Elementor · Photoshop |
 | [**Hotel The Blue Moon (Android)**](https://github.com/shakir-mhd/Hotel-The-Blue-Moon-Android) | Hotel companion mobile application for guest utility and reservations | Java · Android Studio |
-| **3D Portfolio** | Interactive cyberpunk-themed developer portfolio showcase | Three.js · WebGL · In Progress |
 
 <img src="./assets/id-dashboard.svg?v=2" width="100%" alt="Shakir's builder ID and public credentials dashboard. 126+ annual contributions, 5+ public repositories, NVQ Level 4 Software Developer certification." />
 
 <img src="./assets/connect.svg?v=2" width="100%" alt="Let's build what's next. Connect on LinkedIn, send an Email, follow on Instagram @_shakir_skr_, or explore repositories on GitHub @shakir-mhd." />
 
 <p align="center">
+  <a href="https://shakir-portfolio-web.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Shakir_Portfolio-E11D48?style=for-the-badge&logo=vercel&logoColor=white" alt="Shakir Portfolio" /></a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/shakir-mohomed-9912ab27b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
   <a href="mailto:shakirmohomed8685@gmail.com"><img src="https://img.shields.io/badge/Email-247BFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
